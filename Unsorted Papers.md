@@ -74,5 +74,8 @@ I think actions are always encoded in some form of prompt, so you need to tell t
 
 # EXECUTABLE CODE ACTIONS ELICIT BETTER LLM AGENTS
 
-[Link](https://arxiv.org/pdf/2402.01030
+[Link](https://arxiv.org/pdf/2402.01030)
 
+# GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
+
+[Link](https://arxiv.org/pdf/2305.13245)
