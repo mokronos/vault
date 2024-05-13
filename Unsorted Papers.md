@@ -63,3 +63,16 @@ I think actions are always encoded in some form of prompt, so you need to tell t
 # More Agents Is All You Need
 
 [Link](https://arxiv.org/pdf/2402.05120)
+
+# Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+
+[Link](https://arxiv.org/pdf/2201.11903)
+
+# The Rise and Potential of Large Language Model Based Agents: A Survey
+
+[Link](https://arxiv.org/pdf/2309.07864)
+
+# EXECUTABLE CODE ACTIONS ELICIT BETTER LLM AGENTS
+
+[Link](https://arxiv.org/pdf/2402.01030
+
