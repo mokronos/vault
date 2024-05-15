@@ -38,7 +38,7 @@
 
 ## JARVIS
 
-Create personal assistant that is trained too do whatever I'm currently doing so that it might self reinforce at some point.
+Create personal assistant that is trained too do whatever I'm currently doing so that it might self reinforce at some point. Coding would be a nice first step.
 
 ## Movie store
 
