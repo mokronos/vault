@@ -38,6 +38,8 @@
 
 ## JARVIS
 
+Create personal assistant that is trained too do whatever I'm currently doing so that it might self reinforce at some point.
+
 ## Movie store
 
 Store each frame of a movie on a random image hosting site, then create a video player that plays the movie by streaming the images.
