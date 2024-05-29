@@ -43,3 +43,8 @@ Create personal assistant that is trained too do whatever I'm currently doing so
 ## Movie store
 
 Store each frame of a movie on a random image hosting site, then create a video player that plays the movie by streaming the images.
+
+
+## Bugfinder
+
+LLM agent that goes over project to find bugs, add typehints and improve code quality.
