@@ -48,3 +48,7 @@ Store each frame of a movie on a random image hosting site, then create a video 
 ## Bugfinder
 
 LLM agent that goes over project to find bugs, add typehints and improve code quality.
+
+## Window Manager
+
+Just a simple window manager for windows/linux/mac in rust
