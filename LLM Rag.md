@@ -7,8 +7,6 @@ Rag is like reading from a cheat sheet. Finetuning is long term studying. With R
 A combination of both is probably best.
 
 
-
-
 [[ml_glossary#Sample Space |Sample Space]]
 
 
