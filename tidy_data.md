@@ -9,7 +9,7 @@ Mostly a summary of the paper [tidy data](https://vita.had.co.nz/papers/tidy-dat
 
 Example of badly formatted data:
 
-||treatmenta|treatmentb|
+|treatmenta|treatmentb|
 |---|---|---|
 |John Smith|-|2|
 |Jane Doe|16|11|
@@ -17,14 +17,14 @@ Example of badly formatted data:
 
 Better formatted version of that data:
 
-|name|trt|result|
-|---|---|---|
-|Jane Doe|a|16|
-|Jane Doe|b|11|
-|John Smith|a|-|
-|John Smith|b|2|
-|Mary Johnson|a|3|
-|Mary Johnson|b|1|
+| name         | trt | result |
+| ------------ | --- | ------ |
+| Jane Doe     | a   | 16     |
+| Jane Doe     | b   | 11     |
+| John Smith   | a   | -      |
+| John Smith   | b   | 2      |
+| Mary Johnson | a   | 3      |
+| Mary Johnson | b   | 1      |
 
 Important guidelines:
 - Rows: observations
