@@ -32,4 +32,5 @@ Should have context to everything that the programmer can look at.
 	- model needs some "base" amount of information/knowledge know what to retrieve. There will be some balance of model size, intelligence and knowledge
 	- immediate knowledge, e.g. the current file in coding or the current web page when in a browser should probably always be fully in the context
 	- additionally there should be a summary of what is going on in the environment e.g. the file tree, the Treesitter code structure or what programs are running on the pc
-- 
+- Make the system cite everything, like in scientific work
+	- https://arxiv.org/pdf/2305.14627
