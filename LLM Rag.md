@@ -18,3 +18,23 @@ Rag takes the query that is sent by the user, embedds it, uses similarity search
 # Indexing
 
 ![[Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md]]
+# Rag improvements
+
+## Citations
+
+ https://arxiv.org/pdf/2305.14627
+ Just put this in system prompt:
+> `Write an accurate, engaging, and concise answer for the given question using only the provided search results (some of which might be irrelevant) and cite them properly. Use an unbiased and journalistic tone. Always cite for any factual claim. When citing several search results, use [1][2][3]. Cite at least one document and at most three documents in each sentence. If multiple documents support the sentence, only cite a minimum sufficient subset of the documents.`
+
+## HyDE
+
+https://arxiv.org/pdf/2212.10496
+
+Tell the LLM to create a hypothetical document that might answer the current question. Then use that document in the similarity search of the vector database.
+
+## Chain/Setup
+
+tool_calling_agent
+
+## Where to abstract
+

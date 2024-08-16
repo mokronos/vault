@@ -15,7 +15,6 @@
               "state": {
                 "file": "LLM Rag.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -134,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,32 +149,32 @@
   },
   "active": "561d9e8fb0edf352",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md",
+    "[.md",
     "LLM Rag.md",
-    "Excalidraw",
-    "LLM Evaluation.md",
-    "LLM.md",
     "JARVIS.md",
-    "Excalidraw/Drawing 2024-07-30 15.37.43.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-24 15.12.45.excalidraw.md",
-    "Unsorted Papers.md",
-    "unknown.md",
+    "Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md",
+    "data_preparation.md",
+    "2024-08-01.md",
+    "notes.md",
+    "Multiagent LLM system.md",
     "tidy_data.md",
     "sort.md",
-    "search.md",
     "regression.md",
     "pytorch.md",
     "Programming Languages.md",
-    "notes.md",
-    "neural_network.md",
-    "Multiagent LLM system.md",
-    "ml_resources.md",
-    "ml_glossary.md",
-    "machine_learning.md",
-    "logic.md",
-    "hri.md",
     "how_to_code.md",
-    "help.md",
-    "habits.md"
+    "hri.md",
+    "LLM.md",
+    "LLM Evaluation.md",
+    "logic.md",
+    "machine_learning.md",
+    "GPU Comparison.md",
+    "Excalidraw/Drawing 2024-07-24 15.10.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-24 15.12.45.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-30 15.37.43.excalidraw.md",
+    "Excalidraw",
+    "Cuda.md",
+    "data_science.md",
+    "classes.md"
   ]
 }
