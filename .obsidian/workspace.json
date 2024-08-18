@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfdf59d24a0b1314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM Rag.md",
+                "file": "Python tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM Rag.md",
+                "file": "Python tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM Rag.md"
+                "file": "Python tips.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "561d9e8fb0edf352",
+  "active": "dfdf59d24a0b1314",
   "lastOpenFiles": [
-    "[.md",
     "LLM Rag.md",
+    "Python tips.md",
+    "[.md",
     "JARVIS.md",
     "Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md",
     "data_preparation.md",
@@ -174,7 +188,6 @@
     "Excalidraw/Drawing 2024-07-30 15.37.43.excalidraw.md",
     "Excalidraw",
     "Cuda.md",
-    "data_science.md",
-    "classes.md"
+    "data_science.md"
   ]
 }

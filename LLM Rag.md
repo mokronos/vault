@@ -13,7 +13,7 @@ A combination of both is probably best.
 
 # Overview
 
-Rag takes the query that is sent by the user, embedds it, uses similarity search to find a similar vector in a vector store, retrieves this vector and adds that vector in text form to the query to give to the LLM
+Rag takes the query that is sent by the user, embeds it, uses similarity search to find a similar vector in a vector store, retrieves this vector and adds that vector in text form to the query to give to the LLM.
 
 # Indexing
 
@@ -36,5 +36,14 @@ Tell the LLM to create a hypothetical document that might answer the current que
 
 tool_calling_agent
 
+## Prompting
+
+https://www.reddit.com/r/LocalLLaMA/comments/1bii8or/open_llm_prompting_principle_what_you_repeat_will/
 ## Where to abstract
 
+There are different levels in a system at which you can say, im just gonna use an api and not deal with it.
+
+In our case, we use the API of an LLM. The different providers, Ollama and OpenAI have a similar API. What this abstracts:
+- Dealing with running a GPU for inference
+- Dealing with model structure and the corresponding inference code
+- 
