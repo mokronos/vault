@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84bbee48cf853270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLMOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python tips.md",
+                "file": "LLMOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python tips.md",
+                "file": "LLMOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python tips.md"
+                "file": "LLMOS.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfdf59d24a0b1314",
+  "active": "84bbee48cf853270",
   "lastOpenFiles": [
-    "LLM Rag.md",
     "Python tips.md",
+    "LLMOS.md",
+    "LLM Rag.md",
     "[.md",
     "JARVIS.md",
     "Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md",
@@ -187,7 +200,6 @@
     "Excalidraw/Drawing 2024-07-24 15.12.45.excalidraw.md",
     "Excalidraw/Drawing 2024-07-30 15.37.43.excalidraw.md",
     "Excalidraw",
-    "Cuda.md",
-    "data_science.md"
+    "Cuda.md"
   ]
 }
