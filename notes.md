@@ -52,3 +52,11 @@ LLM agent that goes over project to find bugs, add typehints and improve code qu
 ## Window Manager
 
 Just a simple window manager for windows/linux/mac in rust
+
+## Game with LLM integration
+
+- Tower defense with LLM controlling opponent economy/units
+- resource management with LLM trader/marketplace
+
+# Transformers over time
+Queue transformers tokens via LSTM? doesn't make sense
