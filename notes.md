@@ -1,8 +1,3 @@
-<!-- --- -->
-<!-- title: Notes -->
-<!-- layout: base -->
-<!-- --- -->
-
 
 ## Destiny notes
 
@@ -60,3 +55,34 @@ Just a simple window manager for windows/linux/mac in rust
 
 # Transformers over time
 Queue transformers tokens via LSTM? doesn't make sense
+Long term memory maybe could be learned?
+
+# Prediction Site
+- make public figures list their world view in a logical tree
+- predict events with this world view
+- reward good predictions and punish bad ones
+
+# Knowledge
+
+- Have all knowledge in some form
+	- api's for llm to access
+	- finetune llm for api access
+- Create LLM with the least knowledge possible
+	- Train it to do agent tasks
+	- Build tool calling engine
+
+# Game mit Masu
+- Masu
+	- Vibecode game with cursor or other free version?
+	- in python so i can try to debug
+- Me
+	- generate ai music and art for game
+	- somehow use small open source models that run quickly to dynamically create semi-random art/music 
+
+# TODO
+Automate everything that could be automated. While doing that, find a framework that abstracts some annoying stuff. Research:
+- Transformers, and all optimizations, cuda kernels
+- Reinforcement learning
+- Synthetic data generation
+- Good dataset creation, like textbooks? -> create games from them that are randomizable and have a clear reward
+- try to create good evals
