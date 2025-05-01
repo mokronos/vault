@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -82,7 +82,7 @@
   "autoexportExcalidraw": false,
   "embedType": "excalidraw",
   "embedMarkdownCommentLinks": false,
-  "embedWikiLink": true,
+  "embedWikiLink": false,
   "syncExcalidraw": false,
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",

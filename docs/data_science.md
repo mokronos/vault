@@ -39,4 +39,4 @@ Don't forget statistical significance of the result (How much confidence do we h
 Use the simplest model that makes sense and establish a baseline.
 
 
-![[data_science_2025-05-01_20.55.33.excalidraw]]
+![](data_science_2025-05-01_23.00.29.excalidraw)

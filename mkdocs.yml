@@ -1,5 +1,5 @@
-site_name: Your Site Name
-site_url: https://yourusername.github.io/your-repo-name
+site_name: Notes
+site_url: ""
 site_dir: 'site'
 theme:
   name: material
