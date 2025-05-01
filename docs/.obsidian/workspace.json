@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data_science.md",
+                "file": "ml_glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "data_science"
+              "title": "ml_glossary"
             }
           }
         ]
@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of Deepseekv3"
             }
+          },
+          {
+            "id": "888396281609feac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,19 +177,31 @@
   },
   "active": "561d9e8fb0edf352",
   "lastOpenFiles": [
-    "Excalidraw/data_science_2025-05-01_20.55.33.excalidraw.md",
-    "Excalidraw/data_science_2025-05-01_20.55.33.excalidraw.svg",
+    "javascripts/katex.js~",
+    "javascripts/4913",
+    "javascripts/katex.js",
+    "javascripts",
+    "GPU Comparison.md",
+    "machine_learning.md",
+    "ml_glossary.md",
+    "ml_resources.md",
+    "etf_investing.md",
+    "search.md",
+    "blog/sort.md",
+    "blog",
+    "cs50.md",
     "data_science.md",
-    "Excalidraw",
-    "sedwLIit1",
-    "sediG8k3b",
-    "sed0qbWe4",
-    "sedlU75d5",
-    "sed3aoKyg",
-    "sedROBpyO",
-    "sedpsQCEX",
-    "sedQyyp3J",
-    "sedRs4oxC",
+    "data_science.md~",
+    "4913",
+    "excalidraw/data_science_2025-05-01_23.00.29.excalidraw.md",
+    "excalidraw/data_science_2025-05-01_23.00.29.excalidraw.svg",
+    "LLM Rag.md",
+    "sedSUFC9H",
+    "sedlLIr12",
+    "sedIKNxEh",
+    "sedfJS9ui",
+    "excalidraw/data_science_2025-05-01_20.55.33.excalidraw.md",
+    "excalidraw/data_science_2025-05-01_20.55.33.excalidraw.svg",
     "Excalidraw/data_science_2025-05-01_20.41.54.excalidraw.md",
     "docs/Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md",
     "docs/Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.svg",
@@ -198,19 +220,8 @@
     "docs/Unsorted Papers.md",
     "docs/unknown.md",
     "docs/TODO.md",
-    "docs/tidy_data.md",
-    "docs/sort.md",
-    "docs/search.md",
-    "docs/regression.md",
-    "docs/pytorch.md",
-    "docs/Python tips.md",
-    "docs/Programming Languages.md",
-    "docs/O1.md",
-    "docs/notes.md",
-    "docs/neural_network.md",
     "Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.svg",
     "Excalidraw/data_science_2025-04-30_23.58.54.excalidraw.svg",
-    "Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.svg",
-    "Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.svg"
+    "Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.svg"
   ]
 }
