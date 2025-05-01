@@ -1,3 +1,0 @@
-- [ ] Annual full-body bloodwork + checkups
-- [ ] Teach concepts you’re learning to an imaginary 12-year-old
-- [ ] cooking healthy proteins in bulk—meal-prep on autopilot.

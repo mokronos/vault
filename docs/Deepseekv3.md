@@ -1,0 +1,1 @@
+Just going over https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf paper

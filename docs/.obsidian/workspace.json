@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "af3425ef042b5111",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f10bf14f5344b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "561d9e8fb0edf352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "data_science"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a42298192fc5f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "feb53a2d275beae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8f4e9f2a3beeaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ddd6245c3f0a0384",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0904d7603382bd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "8310dc4eb66484f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9f3f1b01b3019c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1f00a7925281e35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deepseekv3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deepseekv3"
+            }
+          },
+          {
+            "id": "3d2612fc0d40f55c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deepseekv3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deepseekv3"
+            }
+          },
+          {
+            "id": "17e002db91ee607e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f70dfba4ad4852e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deepseekv3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deepseekv3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "561d9e8fb0edf352",
+  "lastOpenFiles": [
+    "Excalidraw/data_science_2025-05-01_20.55.33.excalidraw.md",
+    "Excalidraw/data_science_2025-05-01_20.55.33.excalidraw.svg",
+    "data_science.md",
+    "Excalidraw",
+    "sedwLIit1",
+    "sediG8k3b",
+    "sed0qbWe4",
+    "sedlU75d5",
+    "sed3aoKyg",
+    "sedROBpyO",
+    "sedpsQCEX",
+    "sedQyyp3J",
+    "sedRs4oxC",
+    "Excalidraw/data_science_2025-05-01_20.41.54.excalidraw.md",
+    "docs/Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.md",
+    "docs/Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.svg",
+    "docs/Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.md",
+    "docs/Excalidraw/data_science_2025-04-30_23.58.54.excalidraw.svg",
+    "docs/Excalidraw/data_science_2025-04-30_23.58.54.excalidraw.md",
+    "docs/Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.svg",
+    "docs/Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.md",
+    "docs/Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.svg",
+    "docs/Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.md",
+    "docs/Excalidraw/data_science 2025-04-30 22.39.18.excalidraw.md",
+    "docs/Excalidraw/data_science 2025-04-30 22.09.03.excalidraw.svg",
+    "docs/Excalidraw/data_science 2025-04-30 22.09.03.excalidraw.md",
+    "notes.md",
+    "Movies and Shows.md",
+    "docs/Unsorted Papers.md",
+    "docs/unknown.md",
+    "docs/TODO.md",
+    "docs/tidy_data.md",
+    "docs/sort.md",
+    "docs/search.md",
+    "docs/regression.md",
+    "docs/pytorch.md",
+    "docs/Python tips.md",
+    "docs/Programming Languages.md",
+    "docs/O1.md",
+    "docs/notes.md",
+    "docs/neural_network.md",
+    "Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.svg",
+    "Excalidraw/data_science_2025-04-30_23.58.54.excalidraw.svg",
+    "Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.svg",
+    "Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.svg"
+  ]
+}
