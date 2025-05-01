@@ -3,9 +3,10 @@ site_url: ""
 site_dir: 'site'
 theme:
   name: material
+  palette:
+    scheme: slate
 
 exclude_docs: |
-  excalidraw/
   !.javascripts
 
 markdown_extensions:
@@ -24,4 +25,5 @@ extra_css:
 plugins:
   - replace-excalidraw
   - search
+  - awesome-nav
   - pub-obsidian

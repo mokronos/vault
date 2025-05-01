@@ -1,4 +1,5 @@
 mkdocs
 mkdocs-material
 mkdocs-publisher
+mkdocs-awesome-nav
 -e ./replace_excalidraw
