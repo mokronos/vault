@@ -1,0 +1,15 @@
+site_name: Your Site Name
+site_url: https://yourusername.github.io/your-repo-name
+docs_dir: '.'
+site_dir: 'site'
+theme:
+  name: material
+
+plugins:
+  - obsidian-publisher:
+      vault_path: '.'
+      use_wiki_links: true
+      enable_backlinks: true
+      enable_callouts: true
+      enable_mermaid: true
+      enable_tags: true
