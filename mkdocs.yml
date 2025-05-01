@@ -5,6 +5,8 @@ theme:
   name: material
   palette:
     scheme: slate
+    primary: deep orange
+    accent: red
 
 exclude_docs: |
   !.javascripts
