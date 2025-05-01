@@ -17,9 +17,6 @@ Rag takes the query that is sent by the user, embeds it, uses similarity search 
 
 # Indexing
 
-![[Excalidraw/Drawing 2024-08-13 23.16.06.excalidraw.svg.svg.svg]]
-# Rag improvements
-
 ## Citations
 
  https://arxiv.org/pdf/2305.14627
