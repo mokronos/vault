@@ -5,7 +5,8 @@ layout: base
 
 # Collection of terms and definitions for machine learning, statistics and data science.
 
-## L1 Regularization
+## Regularization
+### L1 Regularization
 
 $\lambda \sum_{i=1}^n |w_i|$
 
@@ -44,19 +45,7 @@ clf = SGDClassifier(penalty='l1', alpha=0.01)
 
 </details>
 
-## One-hot Encoding
-
-A way to represent categorical features as binary features.
-
-<details>
-<summary>Example</summary>
-
-Let's say we have a dataset with a feature `weather` that can take on the values `sunny`, `cloudy` and `rainy`.
-We can one-hot encode this feature as `[1, 0, 0]` for `sunny`, `[0, 1, 0]` for `cloudy` and `[0, 0, 1]` for `rainy`.
-Thus we created three binary features from one categorical feature.
-</details>
-
-## L2 Regularization
+### L2 Regularization
 
 L2 Regularization can be used to punish large weights in a model.
 Large model weights often indicate more complex models that are more prone to overfitting.
@@ -90,6 +79,18 @@ And the `alpha` parameter that controls the lambda.
 clf = SGDClassifier(penalty='l2', alpha=0.01)
 ```
 </details>
+## One-hot Encoding
+
+A way to represent categorical features as binary features.
+
+<details>
+<summary>Example</summary>
+
+Let's say we have a dataset with a feature `weather` that can take on the values `sunny`, `cloudy` and `rainy`.
+We can one-hot encode this feature as `[1, 0, 0]` for `sunny`, `[0, 1, 0]` for `cloudy` and `[0, 0, 1]` for `rainy`.
+Thus we created three binary features from one categorical feature.
+</details>
+
 
 ## Sparse Feature
 

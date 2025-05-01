@@ -4,6 +4,12 @@ site_dir: 'site'
 theme:
   name: material
 
+exclude_docs: |
+  excalidraw/
+
+markdown_extensions:
+  - attr_list
+
 plugins:
   - replace-excalidraw
   - search

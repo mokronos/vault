@@ -6,7 +6,7 @@ layout: base
 # Machine Learning
 
 ## Preparation
-Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for refresh of some basics ([Notes](/blog/cs50.md)).
+Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for refresh of some basics [[cs50|cs50]].
 
 ## Sources
 [Roadmap/Plan](https://machinelearningmastery.com/start-here/)  
@@ -14,11 +14,11 @@ Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for 
 
 ## Problem description
 
-> Find a model or procedure that makes best use of historical data comprised of inputs and outputs in order to skillfully predict outputs given new and unseen inputs in the future. [[1]](https://machinelearningmastery.com/think-machine-learning/#:~:text=Find%20a%20model%20or%20procedure%20that%20makes%20best%20use%20of%20historical%20data%20comprised%20of%20inputs%20and%20outputs%20in%20order%20to%20skillfully%20predict%20outputs%20given%20new%20and%20unseen%20inputs%20in%20the%20future.)
+> Find a model or procedure that makes best use of historical data comprised of inputs and outputs in order to skillfully predict outputs given new and unseen inputs in the future. [\[1\]](https://machinelearningmastery.com/think-machine-learning/#:~:text=Find%20a%20model%20or%20procedure%20that%20makes%20best%20use%20of%20historical%20data%20comprised%20of%20inputs%20and%20outputs%20in%20order%20to%20skillfully%20predict%20outputs%20given%20new%20and%20unseen%20inputs%20in%20the%20future.)
 
 ## Problem solution
 
-> A model or procedure that automatically creates the most likely approximation of the unknown underlying relationship between inputs and associated outputs in historical data. [[1]](https://machinelearningmastery.com/think-machine-learning/#:~:text=as%20the%20following%3A-,A%20model%20or%20procedure%20that%20automatically%20creates%20the%20most%20likely%20approximation%20of%20the%20unknown%20underlying%20relationship%20between%20inputs%20and%20associated%20outputs%20in%20historical%20data.,-Again%2C%20this%20is)
+> A model or procedure that automatically creates the most likely approximation of the unknown underlying relationship between inputs and associated outputs in historical data. [\[1\]](https://machinelearningmastery.com/think-machine-learning/#:~:text=as%20the%20following%3A-,A%20model%20or%20procedure%20that%20automatically%20creates%20the%20most%20likely%20approximation%20of%20the%20unknown%20underlying%20relationship%20between%20inputs%20and%20associated%20outputs%20in%20historical%20data.,-Again%2C%20this%20is)
 
 ## How to get there
 
@@ -136,7 +136,7 @@ From that you can determine what kind of model, loss function and optimization a
 
 ## Loss Functions
 
-- Add [regularization](ml_glossary/#regularization) to loss function
+- Add [[ml_glossary#Regularization |regularization]] to loss function
 
 ## Optimization Algorithms
 
