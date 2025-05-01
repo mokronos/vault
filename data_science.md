@@ -37,3 +37,17 @@ Don't forget statistical significance of the result (How much confidence do we h
 ## Baseline
 
 Use the simplest model that makes sense and establish a baseline.
+
+
+![[data_science 2025-04-30 22.09.03.excalidraw]]
+
+![[data_science 2025-04-30 22.53.53.excalidraw.svg]]
+%%[[data_science 2025-04-30 22.53.53.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+![test](<Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.svg>)
+
+![](data_science_2025-04-30_23.57.26.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](data_science_2025-04-30_23.57.26.excalidraw.md)%%
+
+![](data_science_2025-04-30_23.58.54.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](data_science_2025-04-30_23.58.54.excalidraw.md)%%
