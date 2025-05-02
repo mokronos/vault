@@ -5,7 +5,14 @@ site/
 __pycache__
 
 
-.obsidian/*
-!.obsidian/config.json
-!.obsidian/plugins/
-!.obsidian/themes/
+# Ignore all .obsidian folders and their contents, anywhere
+**/.obsidian/*
+
+# Whitelist specific config files
+!**/.obsidian/app.json
+!**/.obsidian/community-plugins.json
+!**/.obsidian/core-plugins-migration.json
+!**/.obsidian/core-plugins.json
+
+# Whitelist specific plugin files
+!**/.obsidian/plugins/*
