@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ml_glossary.md",
+                "file": "machine_learning.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ml_glossary"
+              "title": "machine_learning"
             }
           }
         ]
@@ -89,12 +90,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "888396281609feac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "b1f00a7925281e35",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deepseekv3.md",
+                "file": "machine_learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deepseekv3"
+              "title": "Backlinks for machine_learning"
             }
           },
           {
@@ -113,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deepseekv3.md",
+                "file": "machine_learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deepseekv3"
+              "title": "Outgoing links from machine_learning"
             }
           },
           {
@@ -128,7 +139,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,20 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deepseekv3.md"
+                "file": "machine_learning.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deepseekv3"
-            }
-          },
-          {
-            "id": "888396281609feac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of machine_learning"
             }
           }
         ],
@@ -161,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 513.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,34 +178,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "561d9e8fb0edf352",
   "lastOpenFiles": [
-    "javascripts/katex.js~",
-    "javascripts/4913",
-    "javascripts/katex.js",
-    "javascripts",
-    "GPU Comparison.md",
+    "data_science.md",
     "machine_learning.md",
     "ml_glossary.md",
+    "machine_learning.md~",
+    "4913",
+    "Excalidraw/data_science_2025-05-01_23.00.29.excalidraw.svg",
+    "Excalidraw/data_science_2025-05-01_23.00.29.excalidraw.md",
+    "Excalidraw",
+    "cs50.md",
+    "data_preparation.md",
+    "daily.md",
+    "assets/data_science_2025-05-02_13.38.15.excalidraw.md",
+    "assets/data_science_2025-05-02_13.38.15.excalidraw.svg",
+    "Untitled.md",
+    "subfolder",
+    "how_to_code.md",
+    "help.md",
+    "LLM Rag.md",
+    "javascripts/katex.js",
+    "javascripts",
+    "javascripts/katex.js~",
+    "javascripts/4913",
+    "GPU Comparison.md",
     "ml_resources.md",
     "etf_investing.md",
     "search.md",
     "blog/sort.md",
     "blog",
-    "cs50.md",
-    "data_science.md",
     "data_science.md~",
-    "4913",
-    "excalidraw/data_science_2025-05-01_23.00.29.excalidraw.md",
-    "excalidraw/data_science_2025-05-01_23.00.29.excalidraw.svg",
-    "LLM Rag.md",
-    "sedSUFC9H",
-    "sedlLIr12",
-    "sedIKNxEh",
-    "sedfJS9ui",
+    "assets/data_science_2025-05-01_23.00.29.excalidraw.md",
+    "assets/data_science_2025-05-01_23.00.29.excalidraw.svg",
     "excalidraw/data_science_2025-05-01_20.55.33.excalidraw.md",
     "excalidraw/data_science_2025-05-01_20.55.33.excalidraw.svg",
     "Excalidraw/data_science_2025-05-01_20.41.54.excalidraw.md",
@@ -212,16 +227,7 @@
     "docs/Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.md",
     "docs/Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.svg",
     "docs/Excalidraw/data_science 2025-04-30 22.53.53.excalidraw.md",
-    "docs/Excalidraw/data_science 2025-04-30 22.39.18.excalidraw.md",
     "docs/Excalidraw/data_science 2025-04-30 22.09.03.excalidraw.svg",
-    "docs/Excalidraw/data_science 2025-04-30 22.09.03.excalidraw.md",
-    "notes.md",
-    "Movies and Shows.md",
-    "docs/Unsorted Papers.md",
-    "docs/unknown.md",
-    "docs/TODO.md",
-    "Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.svg",
-    "Excalidraw/data_science_2025-04-30_23.58.54.excalidraw.svg",
-    "Excalidraw/data_science_2025-04-30_23.57.26.excalidraw.svg"
+    "Excalidraw/data_science_2025-05-01_18.17.00.excalidraw.svg"
   ]
 }

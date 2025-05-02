@@ -1,6 +1,4 @@
 mkdocs
 mkdocs-material==9.6.12
-mkdocs-publisher
-mkdocs-awesome-nav
-mkdocs-exclude-search
 -e ./replace_excalidraw
+-e ./replace_anchor_links

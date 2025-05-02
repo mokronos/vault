@@ -9,13 +9,18 @@ theme:
     primary: deep orange
     accent: red
 
+not_in_nav: |
+  assets/
+
 exclude_docs: |
   !.javascripts
 
 markdown_extensions:
   - attr_list
+  - wikilinks
   - pymdownx.arithmatex:
       generic: true
+
 
 extra_javascript:
   - .javascripts/katex.js
@@ -28,9 +33,5 @@ extra_css:
 
 plugins:
   - replace-excalidraw
+  - replace-anchor-links
   - search
-  - exclude-search:
-      exclude:
-        - excalidraw/*
-  - awesome-nav
-  - pub-obsidian
