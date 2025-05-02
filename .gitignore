@@ -3,3 +3,9 @@ site/
 
 *.egg-info/
 __pycache__
+
+
+.obsidian/*
+!.obsidian/config.json
+!.obsidian/plugins/
+!.obsidian/themes/
