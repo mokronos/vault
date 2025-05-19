@@ -3,5 +3,7 @@
   "vimMode": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets/img/",
+  "showLineNumber": false
 }

@@ -16,3 +16,9 @@ __pycache__
 
 # Whitelist specific plugin files
 !**/.obsidian/plugins/*
+
+# Large files
+*.png
+*.jpg
+*.jpeg
+*.gif
