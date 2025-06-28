@@ -37,5 +37,3 @@ brauch noch:
 30 (masterarbeit)
 -------
 120
-
-![image](https://github.com/user-attachments/assets/3e78b874-5d38-49cd-a2a6-ae36ef86032e)
