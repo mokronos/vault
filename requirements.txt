@@ -1,4 +1,0 @@
-mkdocs
-mkdocs-material==9.6.12
--e ./replace_excalidraw
--e ./replace_anchor_links

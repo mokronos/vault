@@ -1,24 +1,13 @@
-.venv
-site/
+.venv/
 
-*.egg-info/
-__pycache__
+# Ignore Obsidian volatile data
+.obsidian/workspace.json
 
+# Ignore plugin binaries/settings managed per machine
+.obsidian/plugins/
 
-# Ignore all .obsidian folders and their contents, anywhere
-**/.obsidian/*
-
-# Whitelist specific config files
-!**/.obsidian/app.json
-!**/.obsidian/community-plugins.json
-!**/.obsidian/core-plugins-migration.json
-!**/.obsidian/core-plugins.json
-
-# Whitelist specific plugin files
-!**/.obsidian/plugins/*
-
-# Large files
-*.png
-*.jpg
-*.jpeg
-*.gif
+# Track core vault config
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json

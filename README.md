@@ -1,21 +1,17 @@
-# How to use
+# Vault Structure
 
-Don't use wikilinks for excalidraw links in obsidian.
-They won't be converted correctly.
+This repository is now organized as an Obsidian-first vault.
 
+## Folders
 
-Set up venv
-```
-uv venv --python 3.10
-```
+- `00 Inbox` for quick capture and unsorted notes
+- `10 Projects` for active, outcome-driven work
+- `20 Areas` for ongoing life/work responsibilities
+- `30 Resources` for reference material and study notes
+- `40 Archive` for inactive notes
+- `90 Assets` for Excalidraw files and media
 
-Install requirements
+## Notes
 
-```
-uv pip install -r requirements.txt
-```
-
-Serve
-```
-uv run mkdocs serve
-```
+- `.obsidian/` contains vault settings
+- Excalidraw files are stored under `90 Assets/Excalidraw`
